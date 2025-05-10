@@ -1,0 +1,20 @@
+# Clear command history (only works temporarily)
+history -c
+unset HISTFILE
+
+# Remove test files
+rm test.txt
+# Clear command history (only works temporarily)
+history -c
+unset HISTFILE
+
+# Remove test files
+rm test.txt
+# Clear command history (only works temporarily)
+history -c
+unset HISTFILE
+
+# Remove test files
+rm test.txt
+
+
